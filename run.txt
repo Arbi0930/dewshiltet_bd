@@ -1,0 +1,10 @@
+frontend ajiluulahad
+cd frontend
+$env:NODE_OPTIONS = "--openssl-legacy-provider"
+npm i --force
+ng s ymu npm start
+localhost:4200
+
+backend port ni intellij idea ruu orood run hiine
+ 
+localhost:8081
